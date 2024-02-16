@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cliffscoconut
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - cliffscoconut/REGQA
+  - cliffscoconut/recursive_summarizer
+  - cliffscoconut/Airbnb
+  - cliffscoconut/financial_investment_company
+  
